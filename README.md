@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shreyash1216
 - 👀 I’m interested in ...Video Editing and Web Development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me shreyash.sanwal30@gmail.com
 
 <!---
 Shreyash1216/Shreyash1216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
