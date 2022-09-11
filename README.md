@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Shreyash1216
-- 👀 I’m interested in ...Video Editing and Web Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Shreyash
+- 👀 I’m interested in Web and AWS
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me shreyash.sanwal30@gmail.com
 
 <!---
